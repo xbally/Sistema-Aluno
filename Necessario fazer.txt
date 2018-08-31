@@ -1,0 +1,20 @@
+//Criar Tratamento
+ proposta é vincular alunos em um curso e matricular 3 alunos em 2 disciplinas de um determinado semestre, e outros 3 alunos em 2 diferentes disciplinas no mesmo semestre/período
+
+//1 Tela para cadastro , consulta e edição
+* Arruma dao INSERT e Update
+*Inserir Consulta
+a- fazer a tela de cadastro do aluno, mandar para a servlet, gravar no banco e desenvolver uma tela de consulta e edição de dados do aluno
+
+
+//2 Tela para Busca Alunos por curso
+*Testa comando SELECT no campo busca
+b - gerar uma tela de consulta com alunos por curso
+
+
+//3 Tela para Busca de aluno por disciplina
+*Testa comando SELECT no campo busca
+c - gerar uma tela de consulta de alunos por disciplina
+
+
+//4 Estudar e Implementa SQL2o
